@@ -2,6 +2,7 @@
 #include <stdbool.h>
 #include <string.h>
 #include <esp_system.h>
+#include <esp_mac.h>
 #include "include/ps3.h"
 #include "include/ps3_int.h"
 
